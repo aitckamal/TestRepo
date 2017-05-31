@@ -1,0 +1,30 @@
+{
+  "name": "@aitckamal/number-formatter",
+  "version": "0.0.1",
+  "description": "My first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aitckamal/TestRepo.git"
+  },
+  "keywords": [
+    "aitc",
+    "testpackage"
+  ],
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "author": "“Kamal <“kamal@alleviateconsultancy.com”>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aitckamal/TestRepo/issues"
+  },
+  "homepage": "https://github.com/aitckamal/TestRepo#readme",
+  "devDependencies": {
+    "chai": "^4.0.0",
+    "mocha": "^3.4.2"
+  }
+}
